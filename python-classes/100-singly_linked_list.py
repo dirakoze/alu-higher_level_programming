@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ Defines a new class called Node """
 
-
 class Node:
     """ Node serves as a single linked list """
     def __init__(self, data, next_node=None):
