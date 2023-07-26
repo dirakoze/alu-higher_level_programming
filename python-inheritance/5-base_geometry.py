@@ -1,6 +1,9 @@
-i#!/usr/bin/python3
-'''creates an empty class'''
+#!/usr/bin/python3
+'''Creates an empty class called BaseGeometry
+'''
 
 
 class BaseGeometry:
-    '''creates an empty class'''
+    '''Class BaseGeometry
+    '''
+    pass
